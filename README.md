@@ -1,5 +1,6 @@
-### Hi there 👋<center>
+### Hi there 👋 <center>
 auther - Amarnath sahni
+</br>
 <center/>
 <!--
 **Amarnath-sahni/Amarnath-sahni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
