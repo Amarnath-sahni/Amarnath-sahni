@@ -1,5 +1,5 @@
 ### Hi there 👋 
-auther - Amarnath sahni
+auther - Amarnath (bharat)
 </br>
 this is my first github reposetry
 <!--
