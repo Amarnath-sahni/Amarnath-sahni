@@ -10,7 +10,7 @@ and turning ideas into practical products.
 - 🔨 Currently working on B2B Connect
 - 📚 Always learning and improving my development skills
 <p align="center">
-  <img src="./github-banner.png" width="100%" />
+  <img src="./github_banner.png" width="100%" />
 </p>
 <h1 align="center">👋 Hello, I'm Amarnath Sahni</h1>
 
