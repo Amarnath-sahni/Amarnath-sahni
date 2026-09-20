@@ -32,9 +32,7 @@ I’m a **Full Stack Developer** focused on building reliable, scalable, and use
 
 ## 🧑‍💼 Professional Experience
 
-### 💼 Full Stack Developer Intern — Speqto Technologies
-
-**Dec 2025 – Feb 2026**
+### 💼 Full Stack Developer Intern — Speqto Technologies                                                                      **Dec 2025 – Feb 2026**
 
 * Developed and maintained responsive frontend applications using **React.js**
 * Integrated and consumed **REST APIs**
@@ -44,9 +42,7 @@ I’m a **Full Stack Developer** focused on building reliable, scalable, and use
 * Worked with **Context API** for application state management
 * Collaborated on backend integration and database-related functionality
 
-### 💼 MERN Stack Intern — QSpiders
-
-**Jul 2025 – Dec 2025**
+### 💼 MERN Stack Intern — QSpiders                                                                                            **Jul 2025 – Dec 2025**
 
 * Received hands-on industrial training in **MERN stack development**
 * Built frontend interfaces using React.js
@@ -56,16 +52,13 @@ I’m a **Full Stack Developer** focused on building reliable, scalable, and use
 * Practiced Git, GitHub, debugging and development workflows
 
 ### 💼 Backend Development — IIT Kanpur Techkriti
-
 **Professional Certification / Training**
 
 * Completed professional backend development training
 * Worked with backend development concepts and API-based application architecture
 * Strengthened understanding of server-side development
 
-### 💼 Backend Development Summer Training — Vital Skill
-
-**Jun 2024 – Aug 2024**
+### 💼 Backend Development Summer Training — Vital Skill                                                                        **Jun 2024 – Aug 2024**
 
 * Learned backend development fundamentals
 * Worked with APIs, server-side concepts and database integration
@@ -73,7 +66,7 @@ I’m a **Full Stack Developer** focused on building reliable, scalable, and use
 
 ---
 
-## 🚀 Featured Projects
+### Featured Projects
 ### B2B Connect
 **B2B Connect** is a B2B textile marketplace I’m building to connect retailers and businesses with **manufacturers, factories, and wholesale suppliers**. I designed and developed the **frontend from scratch**, implementing product discovery, authentication, cart, checkout, delivery, and user dashboard workflows, and then started developing the **backend and APIs** to support the platform.
 
@@ -105,19 +98,22 @@ An interactive dashboard project focused on presenting structured information th
 **Technology:** React.js • JavaScript • Charting Libraries
 
 ---
-
 ## 🛠️ Technical Skills
 
-### 💻 Programming Languages
+I work across the **full software development lifecycle**, with a primary focus on **Full Stack Web Development, API development, databases, authentication, and problem solving**.
+
+### Languages
+
 <p>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
 </p>
 
-### 🎨 Frontend
+### Frontend Engineering
+
 <p>
-  <img src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -125,15 +121,16 @@ An interactive dashboard project focused on presenting structured information th
   <img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
 </p>
 
-### ⚙️ Backend
+### Backend & APIs
+
 <p>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/JWT_Authentication-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
 </p>
 
-### 🗄️ Databases
+### Databases
 
 <p>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
@@ -141,60 +138,45 @@ An interactive dashboard project focused on presenting structured information th
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
 
-### 🔧 Tools & Technologies
+### Development Tools
 
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
   <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
 </p>
+
+### 🧩 Core Engineering
+
+**Data Structures & Algorithms · Object-Oriented Programming · API Integration · Authentication & Authorization · Database Design · Responsive UI · Git & Version Control**
 
 ---
 
 ## 🧠 Problem Solving & DSA
+I use Data Structures and Algorithms with Java to strengthen my problem-solving and programming fundamentals. I have solved 300+ problems on LeetCode, covering arrays, strings, hashing, recursion, linked lists, stacks & queues, trees, searching, sorting, dynamic programming, and common problem-solving patterns.
 
-I actively practice **Data Structures and Algorithms using Java**.
+LeetCode: [Amarnath Sahni](https://leetcode.com/u/Amarnath_sahni/)
 
-* 🔹 300+ LeetCode problems solved
-* 🔹 Arrays
-* 🔹 Strings
-* 🔹 Hashing
-* 🔹 Recursion
-* 🔹 Linked Lists
-* 🔹 Stacks & Queues
-* 🔹 Trees
-* 🔹 Searching & Sorting
-* 🔹 Dynamic Programming
-* 🔹 Problem-solving patterns
 
 ---
 
 ## 🏆 Achievements
 
-* 🥇 **1st Place — College Hackathon** [View Certificate](https://drive.google.com/file/d/1evqfDME2HEjJC7XfarZ_nwg1AjG9I8M3/view) 
-* 🥈 **2nd Place — TechFest Debugging Competition** [View Certificate](https://drive.google.com/drive/folders/1eryAsJIfv6lrzy4QydwIUyRW3aU_R_Ud)
-* 🏅 Achieved **10.0 CGPA in 7th Semester** [View Certificate](https://your-domain.com/certificates/iit-kanpur-techkriti?utm_source=chatgpt.com)
-* 💻 Solved **300+ problems on LeetCode** [View Certificate](https://your-domain.com/certificates/iit-kanpur-techkriti?utm_source=chatgpt.com)
+* 🥇 **1st Place — College Hackathon**                                                                                           [View Certificate](https://drive.google.com/file/d/1evqfDME2HEjJC7XfarZ_nwg1AjG9I8M3/view) 
+* 🥈 **2nd Place — TechFest Debugging Competition**                                                                              [View Certificate](https://drive.google.com/drive/folders/1eryAsJIfv6lrzy4QydwIUyRW3aU_R_Ud)
+* 🏅 Achieved **10.0 CGPA in 7th Semester**                                                                                      [View Certificate](https://your-domain.com/certificates/iit-kanpur-techkriti?utm_source=chatgpt.com)
+* 💻 Solved **300+ problems on LeetCode**                                                                                        [View Certificate](https://your-domain.com/certificates/iit-kanpur-techkriti?utm_source=chatgpt.com)
 
 ---
+🎓 Education
+### Bachelor of Technology — Computer Science & Engineering
+I.K. Gujral Punjab Technical University · 2026
+CGPA: 8.189
 
-## 🎓 Education
-
-### 🎓 Bachelor of Technology — Computer Science & Engineering
-
-**I.K. Gujral Punjab Technical University**
-
-**CGPA:** 8.189
-
-**Graduation:** 2026
-
-### Academic Background
-
-* **Class XII:** 71% — BSEB
-* **Class X:** 79% — BSEB
+## Academic Background: Class XII — 71% (BSEB) · Class X — 79% (BSEB)
 
 ---
 ## 📜 Certifications & Training
@@ -205,22 +187,10 @@ I actively practice **Data Structures and Algorithms using Java**.
 ---
 
 ## 🔥 What I Like Building
+I enjoy building **end-to-end software products** where the frontend, backend, APIs, authentication, and data layer work together as one system.
+**Web Applications** → **REST APIs** → **Authentication & Authorization** → **Database Systems** → **Backend Architecture** → **Modern React Interfaces** → **Real-World Products**
+My focus is on creating software that is **clean, maintainable, practical, and built around real user and business needs**.
 
-```text
-Web Applications
-       ↓
-REST APIs
-       ↓
-Authentication & Authorization
-       ↓
-Database Systems
-       ↓
-Scalable Backend Architecture
-       ↓
-Modern React Interfaces
-       ↓
-Real-World Products
-```
 
 I particularly enjoy working on projects where **frontend, backend, database and real-world business requirements come together**.
 
