@@ -75,24 +75,11 @@ I’m a **Full Stack Developer** focused on building reliable, scalable, and use
 
 ## 🚀 Featured Projects
 
-### 🏢 B2B Connect
-
-A B2B textile marketplace designed to connect **retailers, businesses, manufacturers, factories and wholesale suppliers**.
-
-#### Key Features
-
-* 🛍️ Wholesale product discovery
-* 🏭 Factory and supplier discovery
-* 📦 Product details and stock management
-* 🛒 Shopping cart
-* 🔐 Authentication and protected routes
-* 📍 Address and delivery management
-* 📋 Checkout workflow
-* 🚚 Shipment tracking
-* 👤 User dashboard
-* 📱 Responsive UI
+**B2B Connect** is a B2B textile marketplace I’m building to connect retailers and businesses with **manufacturers, factories, and wholesale suppliers**. I designed and developed the **frontend from scratch**, implementing product discovery, authentication, cart, checkout, delivery, and user dashboard workflows, and then started developing the **backend and APIs** to support the platform.
 
 **Tech Stack:** React.js • Vite • Tailwind CSS • React Router • Context API • JavaScript
+
+**Project:** [View B2B Connect](https://my-project-six-plum-62.vercel.app/)
 
 ---
 
