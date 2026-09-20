@@ -74,7 +74,7 @@ I’m a **Full Stack Developer** focused on building reliable, scalable, and use
 ---
 
 ## 🚀 Featured Projects
-
+### B2B Connect
 **B2B Connect** is a B2B textile marketplace I’m building to connect retailers and businesses with **manufacturers, factories, and wholesale suppliers**. I designed and developed the **frontend from scratch**, implementing product discovery, authentication, cart, checkout, delivery, and user dashboard workflows, and then started developing the **backend and APIs** to support the platform.
 
 **Tech Stack:** React.js • Vite • Tailwind CSS • React Router • Context API • JavaScript
@@ -82,49 +82,19 @@ I’m a **Full Stack Developer** focused on building reliable, scalable, and use
 **Project:** [View B2B Connect](https://my-project-six-plum-62.vercel.app/)
 
 ---
+### SmartExpense
 
-### 💰 SmartExpense
+A **full-stack personal finance application** I built to help users manage income, expenses, financial targets, and spending insights in one place. I developed the application with **JWT authentication and protected routes**, implemented financial data management and interactive visualizations, and integrated the **Gemini API** to provide AI-powered financial suggestions. The application also supports **PDF/DOC exports** and a responsive user experience.
 
-A full-stack expense management application designed to help users manage their income, expenses and financial goals.
-
-#### Key Features
-
-* 💵 Income and expense management
-* 🎯 Financial targets
-* 📊 Expense visualization
-* 🤖 AI-powered financial suggestions
-* 📈 Financial insights
-* 🔐 JWT authentication
-* 🔒 Protected routes
-* 📄 PDF/DOC export functionality
-* 📱 Responsive interface
-
-**Tech Stack:** React.js • Node.js • Express.js • MongoDB • Gemini API • Chart.js • Redux Toolkit • JWT
+**Tech Stack:** React.js • Node.js • Express.js • MongoDB • Gemini API • Redux Toolkit • Chart.js • JWT
 
 ---
 
-### 🧠 AI Brain Tumor Detection System
+### AI Brain Tumor Detection System
 
-An AI-integrated full-stack application that uses a machine-learning model to classify brain MRI images into different categories.
+An **AI-powered full-stack application** that I built to classify brain MRI images using a **custom-trained TensorFlow model**. I prepared the model using MRI image data, trained and evaluated it with **~99% accuracy on the evaluation dataset**, and connected it with a **Flask ML API** and MERN application to process images and return predictions.
 
-#### Features
-
-* 🖼️ MRI image upload
-* 🤖 TensorFlow-based prediction
-* 🧠 Image classification
-* ⚡ Flask ML API
-* 🌐 MERN-based application interface
-* 🔗 Frontend-to-ML API integration
-
-**Technology:** React.js • Node.js • Express.js • MongoDB • Flask • Python • TensorFlow
-
----
-
-### 🌱 SmartVillage
-
-A mobile application concept designed to provide useful digital services and information for village communities.
-
-**Technology:** Flutter • Dart
+**Technology:** React.js • Node.js • Express.js • MongoDB • Flask • Python • TensorFlow • JWT • TailwindCSS 
 
 ---
 
@@ -204,10 +174,10 @@ I actively practice **Data Structures and Algorithms using Java**.
 
 ## 🏆 Achievements
 
-* 🥇 **1st Place — College Hackathon**
-* 🥈 **2nd Place — TechFest Debugging Competition**
-* 🏅 Achieved **10.0 CGPA in 7th Semester**
-* 💻 Solved **300+ problems on LeetCode**
+* 🥇 **1st Place — College Hackathon** [View Certificate](https://drive.google.com/file/d/1evqfDME2HEjJC7XfarZ_nwg1AjG9I8M3/view) 
+* 🥈 **2nd Place — TechFest Debugging Competition** [View Certificate](https://drive.google.com/drive/folders/1eryAsJIfv6lrzy4QydwIUyRW3aU_R_Ud)
+* 🏅 Achieved **10.0 CGPA in 7th Semester** [View Certificate](https://your-domain.com/certificates/iit-kanpur-techkriti?utm_source=chatgpt.com)
+* 💻 Solved **300+ problems on LeetCode** [View Certificate](https://your-domain.com/certificates/iit-kanpur-techkriti?utm_source=chatgpt.com)
 
 ---
 
@@ -227,13 +197,11 @@ I actively practice **Data Structures and Algorithms using Java**.
 * **Class X:** 79% — BSEB
 
 ---
-
 ## 📜 Certifications & Training
 
-* 🎓 **IIT Kanpur Techkriti — Backend Development**
-* 💻 **QSpiders — MERN Stack Development / Industrial Training**
-* ⚙️ **Vital Skill — Backend Development Summer Training**
-
+* 🎓 **IIT Kanpur Techkriti — Backend Development** — [View Certificate](https://your-domain.com/certificates/iit-kanpur-techkriti?utm_source=chatgpt.com)
+* 💻 **QSpiders — MERN Stack Development / Industrial Training** — [View Certificate](https://drive.google.com/drive/folders/1eryAsJIfv6lrzy4QydwIUyRW3aU_R_Ud)
+* ⚙️ **Vital Skill — Backend Development Summer Training** — [View Certificate](https://drive.google.com/drive/folders/1eryAsJIfv6lrzy4QydwIUyRW3aU_R_Ud)
 ---
 
 ## 🔥 What I Like Building
