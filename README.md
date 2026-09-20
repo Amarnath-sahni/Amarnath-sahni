@@ -25,18 +25,8 @@ Full Stack Developer • Software Developer • Problem Solver
 
 ## 👨‍💻 About Me
 
-I'm a **Full Stack Developer** with hands-on experience building modern web applications using the **MERN stack**.
+I’m a **Full Stack Developer** with hands-on experience building modern web applications using the **MERN stack**, with practical exposure to both frontend and backend development. I have worked with **React.js, Node.js, Express.js, MongoDB, REST APIs, JWT authentication, protected routes, and database integration**, and I enjoy turning requirements into clean, functional, and user-focused software. Along with development, I have a strong interest in **DSA and problem solving**, with **300+ problems solved on LeetCode**, which has strengthened my logical thinking and debugging approach. I have also worked on real-world projects involving **AI-integrated applications, authentication, API development, database operations, and performance optimization**. I’m continuously improving my technical skills and looking for an opportunity where I can contribute to a development team, learn from experienced engineers, and build reliable software that solves real business problems.
 
-I enjoy transforming ideas into practical software, solving programming problems, designing APIs, working with databases, and continuously improving my development skills.
-
-* 💻 Full Stack Developer focused on **React.js, Node.js, Express.js & MongoDB**
-* 🚀 Experienced in building **REST APIs and full-stack applications**
-* 🔐 Experience with **JWT authentication and protected routes**
-* 🧩 Passionate about **DSA and problem solving**
-* 🏗️ Interested in building scalable and real-world software
-* 🤖 Exploring **AI-integrated applications**
-* 📚 Continuously learning new technologies
-* 🔥 **Always ready for the next challenge**
 
 ---
 
